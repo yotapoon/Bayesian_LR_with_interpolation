@@ -1,0 +1,2 @@
+# Bayesian_LR_with_interpolation
+入力値を補完するベイズ線形回帰モデル
